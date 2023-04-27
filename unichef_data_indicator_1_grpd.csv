@@ -1,0 +1,1146 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age,year,Population,GDP,Inflation,obs_true_val
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2000,58,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,19542982,0,0,5800
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2001,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,19688632,0,0,7600
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2002,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,21000256,360,0,9400
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2003,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,22645130,363,0,7100
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2004,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,23553551,354,0,9500
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2005,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,24411191,380,13,9100
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2006,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,25442944,384,7,8400
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2007,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,25903301,429,9,9200
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2008,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,26427199,437,26,9600
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2009,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,27385307,512,-7,9500
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2010,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,28189672,569,2,9600
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2011,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,29249157,551,12,9900
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2013,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,31541209,608,7,9700
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2014,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,32716210,603,5,9500
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2015,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,33753499,592,-1,9800
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2016,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,34636207,590,4,9000
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2017,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,35643418,589,5,9500
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2018,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,36686784,579,1,9300
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2019,51,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,37769499,584,2,5100
+Afghanistan,AF,AFG,4,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,38972230,553,0,0
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2002,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,17516139,2032,109,6400
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2003,68,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,18124342,2022,98,6800
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2004,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,18771125,2166,44,700
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2005,65,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,19450959,2405,23,6500
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2006,80,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,20162340,2588,13,8000
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2007,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,20909684,2845,12,3600
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2008,82,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,21691522,3049,12,8200
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2009,28,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,22507674,2963,14,2800
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2010,28,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,23364185,2993,14,2800
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2011,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,24259111,2983,13,5500
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2012,44,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,25188292,3118,10,4400
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2013,48,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,26147002,3153,9,4800
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2014,6,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,27128337,3185,7,600
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2015,14,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,28127721,3101,9,1400
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2017,3,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,30208628,2809,30,300
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2018,4,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,31273533,2677,20,400
+Angola,AO,AGO,24,Vitamin A two-dose coverage,2019,5,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,32353588,2570,17,500
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2000,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,129193327,646,2,8500
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2001,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,131670484,666,2,8900
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2002,81,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,134139826,679,3,8100
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2003,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,136503206,699,6,8700
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2004,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,138789725,723,8,8300
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2005,82,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,140912590,759,7,8200
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2006,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,142628831,800,7,8900
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2007,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,144135934,847,9,9400
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2008,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,145421318,890,9,9700
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2009,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,146706810,927,5,9100
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2010,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,148391139,968,8,0
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2011,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,150211005,1018,11,0
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2012,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,152090649,1071,6,9400
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2013,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,154030139,1121,8,9700
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2014,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,155961299,1174,7,0
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2015,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,157830000,1236,6,9900
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2016,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,159784568,1308,6,9900
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2017,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,161793964,1377,6,9900
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2018,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,163683958,1460,6,0
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2019,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,165516222,1558,6,9900
+Bangladesh,BD,BGD,50,Vitamin A two-dose coverage,2020,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,167420951,1593,6,9700
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,6998023,889,4,0
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,7212041,908,4,0
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2002,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,7431783,922,2,8500
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2003,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,7659208,926,1,9500
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2004,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,7894554,938,1,8900
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2005,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,8149419,924,5,9200
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2006,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,8402631,932,4,8700
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2007,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,8647761,960,1,7300
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2008,52,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,8906469,977,8,5200
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2009,56,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,9172514,971,1,5600
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,9445710,963,2,9900
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2011,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,9726380,963,3,9800
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,10014078,980,7,9900
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,10308730,1021,0,9900
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,10614844,1054,-1,9900
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2015,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,10932783,1042,0,9500
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2016,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,11260085,1045,-1,9400
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2017,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,11596779,1072,2,9900
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2018,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,11940683,1111,1,0
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2019,56,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,12290444,1154,-1,5600
+Benin,BJ,BEN,204,Vitamin A two-dose coverage,2020,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,12643123,1165,3,700
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2000,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,8592656,2017,5,2700
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2000,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,8592656,2017,5,2700
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2001,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,8746084,2015,2,4000
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2001,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,8746084,2015,2,4000
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2002,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,8900583,2030,1,3500
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2002,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,8900583,2030,1,3500
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2003,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,9057378,2049,3,3600
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2003,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,9057378,2049,3,3600
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2004,42,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,9216279,2097,4,4200
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2004,42,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,9216279,2097,4,4200
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2005,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,9377388,2152,5,3900
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2005,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,9377388,2152,5,3900
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2006,41,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,9542663,2217,4,4100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2006,41,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,9542663,2217,4,4100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2008,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,9880593,2376,14,4500
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2008,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,9880593,2376,14,4500
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2009,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,10051317,2414,3,4500
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2009,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,10051317,2414,3,4500
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2010,24,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,10223270,2471,3,2400
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2010,24,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,10223270,2471,3,2400
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2011,21,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,10396246,2557,10,2100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2011,21,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,10396246,2557,10,2100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2012,41,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,10569697,2644,5,4100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2012,41,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,10569697,2644,5,4100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2013,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,10743349,2778,6,4000
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2013,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,10743349,2778,6,4000
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2016,52,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,11263015,3055,4,5200
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2016,52,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,11263015,3055,4,5200
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2017,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,11435533,3135,3,3100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2017,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,11435533,3135,3,3100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2018,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,11606905,3219,2,5400
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2018,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,11606905,3219,2,5400
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2019,37,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,11777315,3243,2,3700
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2019,37,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,11777315,3243,2,3700
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2020,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,11936162,2920,1,3100
+Bolivia,BO,BOL,68,Vitamin A two-dose coverage,2020,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,11936162,2920,1,3100
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2004,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,1859085,5219,7,3100
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2006,15,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,1928704,5700,12,1500
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2009,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,2048997,5032,8,9700
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2010,81,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,2091664,5428,7,8100
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2011,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,2134037,5684,8,7500
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2013,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,2217278,6068,6,7100
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2014,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,2260376,6291,4,7000
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2015,57,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,2305171,5870,3,5700
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2016,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,2352416,6166,3,7500
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2017,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,2401840,6288,3,8300
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2018,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,2451409,6419,3,8600
+Botswana,BW,BWA,72,Vitamin A two-dose coverage,2019,69,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,2499702,6485,3,6900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2000,10,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,11882888,430,0,1000
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2001,62,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,12249764,445,5,6200
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2002,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,12632269,450,2,9100
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2003,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,13030591,470,2,6600
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2004,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,13445977,476,0,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2005,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,13876127,501,6,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2006,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,14316242,516,2,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2007,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,14757074,521,0,7300
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2008,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,15197915,536,11,9700
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2009,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,15650022,536,3,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,16116845,564,-1,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2011,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,16602651,584,3,8700
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,17113732,603,4,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,17636408,619,1,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2014,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,18169842,627,0,9800
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2015,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,18718019,632,1,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2016,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,19275498,650,0,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2017,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,19835858,671,1,0
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2018,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,20392723,696,2,9900
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2019,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,20951639,716,-3,9800
+Burkina Faso,BF,BFA,854,Vitamin A two-dose coverage,2020,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,21522626,710,2,9700
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,6307659,310,24,0
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,6465729,309,9,0
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2004,16,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,7120496,303,8,1600
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2005,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,7388874,295,13,700
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2006,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,7658190,300,3,7600
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2007,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,7944609,299,8,8300
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2008,80,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,8278109,301,24,8000
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2009,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,8709366,297,11,9000
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2010,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,9126605,298,6,7300
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2011,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,9455733,299,10,7200
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2012,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,9795479,301,18,8600
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2013,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,10149577,305,8,7500
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2014,69,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,10494913,308,4,6900
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2015,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,10727148,289,6,7100
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2016,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,10903327,283,6,7800
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2017,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,11155593,278,16,7900
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2018,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,11493472,274,-3,8900
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2019,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,11874838,270,-1,8500
+Burundi,BI,BDI,108,Vitamin A two-dose coverage,2020,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,12220227,263,7,9200
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2000,30,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,12118841,488,-1,3000
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2001,57,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,12338192,518,-1,5700
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2002,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,12561779,543,0,3400
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2003,47,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,12787710,578,1,4700
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2004,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,13016371,627,4,7200
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2005,65,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,13246583,698,7,6500
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2006,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,13477779,760,6,7800
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2007,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,13714791,823,9,7600
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2008,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,13943888,863,24,8800
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2009,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,14155740,851,-1,9800
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2010,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,14363532,889,4,9500
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2011,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,14573885,938,5,9200
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2012,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,14786640,992,3,9800
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2013,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,14999683,1050,3,9000
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2014,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,15210817,1109,4,7100
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2015,63,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,15417523,1171,1,6300
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2016,69,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,15624584,1235,3,6900
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2017,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,15830689,1305,3,7300
+Cambodia,KH,KHM,116,Vitamin A two-dose coverage,2019,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,16207746,1466,2,7200
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,15091594,1138,1,0
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,15493253,1156,4,0
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2002,4,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,15914033,1176,3,400
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2003,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,16354326,1207,1,700
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2004,15,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,16809407,1257,0,1500
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2005,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,17275171,1250,2,9600
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2006,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,17751333,1263,5,9200
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2007,48,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,18251866,1281,1,4800
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2009,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,19319274,1277,3,9400
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2010,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,19878036,1277,1,8900
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2011,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,20448873,1284,3,9800
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2012,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,21032684,1306,3,8800
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,21632850,1333,2,9900
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2014,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,22299585,1367,2,9600
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2015,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,23012646,1400,3,9900
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2016,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,23711630,1420,1,5500
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2017,9,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,24393181,1429,1,900
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2018,47,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,25076747,1445,1,4700
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2019,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,25782341,1455,2,8700
+Cameroon,CM,CMR,120,Vitamin A two-dose coverage,2020,14,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,26491087,1419,2,1400
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2000,1,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,3759170,446,3,100
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2001,3,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,3844773,455,4,300
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2005,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,4208834,436,3,7600
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2006,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,4294352,448,7,800
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2007,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,4375569,460,1,7800
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2008,68,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,4467233,460,9,6800
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2009,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,4564540,488,4,8700
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2010,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,4660067,501,1,0
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2011,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,4732022,514,1,0
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2012,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,4773306,535,5,8300
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2013,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,4802428,338,7,4000
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2014,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,4798734,339,15,3400
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2015,3,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,4819333,352,1,300
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2016,2,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,4904177,362,5,200
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2017,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,4996741,372,4,0
+Central African Republic,CF,CAF,140,Vitamin A two-dose coverage,2018,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,5094780,378,2,3500
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2000,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,8259137,379,4,8700
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2001,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,8538804,410,12,8800
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,9196366,473,-2,0
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2004,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,9613503,605,-5,7900
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2005,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,10005012,682,8,9300
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2006,58,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,10365614,663,8,5800
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2007,50,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,10722731,662,-9,5000
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2008,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,11098664,659,10,0
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2009,61,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,11496128,663,10,6100
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2013,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,13216766,754,0,9100
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2014,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,13697126,778,2,9600
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2015,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,14140274,774,4,8500
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2016,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,14592585,703,-1,0
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2017,67,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,15085884,660,-2,6700
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2018,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,15604210,653,4,7000
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2019,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,16126866,653,-1,9100
+Chad,TD,TCD,148,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,16644701,622,4,0
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2004,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,581154,1210,4,700
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2008,20,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,629470,1236,2,2000
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2009,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,642493,1250,4,4000
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2010,18,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,656024,1270,3,1800
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2014,14,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,714612,1336,0,1400
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2015,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,730216,1323,0,1200
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2016,17,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,746232,1338,0,1700
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2017,21,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,761664,1360,0,2100
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2018,11,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,776313,1383,0,1100
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2019,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,790986,1382,0,7800
+Comoros,KM,COM,174,Vitamin A two-dose coverage,2020,23,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,806166,1353,0,2300
+Congo,CG,COG,178,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,3134030,2058,-1,0
+Congo,CG,COG,178,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,3254101,2057,0,0
+Congo,CG,COG,178,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,3424653,2061,-1,0
+Congo,CG,COG,178,Vitamin A two-dose coverage,2004,6,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,3543012,2061,2,600
+Congo,CG,COG,178,Vitamin A two-dose coverage,2005,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,3672839,2143,3,800
+Congo,CG,COG,178,Vitamin A two-dose coverage,2006,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,3813323,2229,7,7900
+Congo,CG,COG,178,Vitamin A two-dose coverage,2007,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,3956329,2006,3,0
+Congo,CG,COG,178,Vitamin A two-dose coverage,2008,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,4089602,2063,5,800
+Congo,CG,COG,178,Vitamin A two-dose coverage,2009,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,4257230,2212,4,800
+Congo,CG,COG,178,Vitamin A two-dose coverage,2010,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,4437884,2333,0,8400
+Congo,CG,COG,178,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,4944861,2493,1,9900
+Congo,CG,COG,178,Vitamin A two-dose coverage,2015,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,5064386,2348,3,9900
+Congo,CG,COG,178,Vitamin A two-dose coverage,2016,48,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,5186824,2045,3,4800
+Congo,CG,COG,178,Vitamin A two-dose coverage,2017,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,5312340,1909,0,1200
+Congo,CG,COG,178,Vitamin A two-dose coverage,2018,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,5441062,1775,1,800
+Congo,CG,COG,178,Vitamin A two-dose coverage,2019,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,5570733,1732,2,7900
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,17245468,1725,4,0
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,17245468,1725,4,0
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,17683897,1636,3,0
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,17683897,1636,3,0
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2004,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,18544903,1534,1,0
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2004,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,18544903,1534,1,0
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2005,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,18970215,1515,4,8800
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2005,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,18970215,1515,4,8800
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2006,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,19394057,1523,2,7800
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2006,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,19394057,1523,2,7800
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2007,4,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,19817700,1507,2,400
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2007,4,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,19817700,1507,2,400
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2008,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,20244449,1546,6,9000
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2008,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,20244449,1546,6,9000
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2009,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,20677762,1568,1,8800
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2009,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,20677762,1568,1,8800
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,21120042,1640,1,9900
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,21120042,1640,1,9900
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2011,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,21562914,1520,5,9900
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2011,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,21562914,1520,5,9900
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,22010712,1603,1,9900
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,22010712,1603,1,9900
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,22469268,1739,3,9900
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,22469268,1739,3,9900
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,22995555,1859,0,9900
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,22995555,1859,0,9900
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2015,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,23596741,1942,1,7200
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2015,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,23596741,1942,1,7200
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2016,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,24213622,2028,1,0
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2016,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,24213622,2028,1,0
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2017,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,24848016,2122,1,9400
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2017,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,24848016,2122,1,9400
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2018,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,25493988,2210,0,8400
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2018,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,25493988,2210,0,8400
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2019,80,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,26147551,2289,-1,8000
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2019,80,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,26147551,2289,-1,8000
+Côte d'Ivoire,CI,CIV,384,Vitamin A two-dose coverage,2020,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,26811790,2277,2,8900
+Ivory Coast,CI,CIV,384,Vitamin A two-dose coverage,2020,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,26811790,2277,2,8900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2000,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,23367059,0,0,9600
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2001,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,23512522,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2002,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,23638411,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2003,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,23781707,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2004,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,23948930,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2005,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,24100982,0,0,9800
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2006,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,24235761,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2007,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,24356506,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2008,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,24469047,0,0,9800
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2009,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,24581509,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,24686435,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2011,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,24783789,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,24887770,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2013,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,25001819,0,0,9800
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,25126131,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2015,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,25258015,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2016,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,25389611,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2017,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,25516321,0,0,9000
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2018,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,25638149,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2019,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,25755441,0,0,9900
+North Korea,KP,PRK,408,Vitamin A two-dose coverage,2020,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,25867467,0,0,9300
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,48616317,340,514,0
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2001,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,50106657,323,360,1200
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2002,62,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,51662071,322,32,6200
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2003,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,53205639,331,13,7200
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2004,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,54815607,342,4,7000
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2005,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,56550247,352,21,8700
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2006,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,58381630,359,13,9100
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2007,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,60289422,370,17,7900
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2008,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,62249724,380,17,8500
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2009,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,64270232,379,3,8900
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2010,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,66391257,393,7,8300
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2011,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,68654269,406,15,9800
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2012,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,70997870,421,10,8400
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2013,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,73460021,441,1,9800
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,76035588,466,1,9900
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2015,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,78656904,482,1,9400
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2016,44,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,81430977,477,3,4400
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2017,1,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,84283273,478,0,100
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2018,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,87087355,489,0,7800
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2019,74,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,89906890,495,0,7400
+Democratic Republic of the Congo,CD,COD,180,Vitamin A two-dose coverage,2020,60,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,92853164,487,0,6000
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2003,9,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,806411,0,2,900
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2005,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,830861,0,3,0
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2006,15,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,846947,0,3,1500
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2007,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,865196,0,5,9400
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2008,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,882886,0,12,8600
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2009,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,901103,0,2,9400
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2010,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,919199,0,4,9500
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2011,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,936811,0,5,9500
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2012,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,954297,0,4,8800
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2013,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,971753,2167,3,6600
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2015,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,1006259,2409,-1,7200
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2016,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,1023261,2538,3,7800
+Djibouti,DJ,DJI,262,Vitamin A two-dose coverage,2019,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,1073994,2820,3,0
+Equatorial Guinea,GQ,GNQ,226,Vitamin A two-dose coverage,2017,5,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,1450694,7818,1,500
+Equatorial Guinea,GQ,GNQ,226,Vitamin A two-dose coverage,2018,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,1502091,7080,1,700
+Equatorial Guinea,GQ,GNQ,226,Vitamin A two-dose coverage,2019,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,1553031,6472,1,800
+Equatorial Guinea,GQ,GNQ,226,Vitamin A two-dose coverage,2020,5,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,1596049,6031,5,500
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2001,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,2461927,839,0,3900
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2002,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,2547424,835,0,3400
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2004,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,2763140,760,0,0
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2005,46,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,2831732,761,0,4600
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2006,50,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,2880093,741,0,5000
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2007,46,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,2926168,740,0,4600
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2008,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,3005779,650,0,4500
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2009,42,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,3083888,658,0,4200
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2010,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,3147727,659,0,3900
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2011,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,3207570,702,0,3900
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2012,38,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,3252596,0,0,3800
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2013,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,3296367,0,0,3600
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2014,49,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,3323425,0,0,4900
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2015,51,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,3340006,0,0,5100
+Eritrea,ER,ERI,232,Vitamin A two-dose coverage,2018,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,3445374,0,0,3600
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,1041396,2411,6,0
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,1050809,2494,12,0
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,1058797,2572,7,0
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2005,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,1071886,2790,5,4000
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2006,18,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,1077735,2941,5,1800
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2007,26,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,1084008,3054,8,2600
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2008,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,1089870,3063,13,3900
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2009,30,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,1094886,3096,7,3000
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2010,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,1099920,3199,5,3600
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2011,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,1105371,3255,6,3400
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2012,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,1111444,3412,9,3300
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2013,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,1118319,3522,6,3100
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2014,43,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,1125865,3530,6,4300
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2016,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,1142524,3594,8,3900
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2017,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,1151390,3639,6,3300
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2018,30,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,1160428,3696,5,3000
+Swaziland,SZ,SWZ,748,Vitamin A two-dose coverage,2019,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,1169613,3766,3,3100
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,67031867,259,1,0
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,69018932,272,-8,0
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2003,22,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,73168838,255,14,2200
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2004,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,75301026,282,3,0
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2005,58,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,77469940,306,10,5800
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2006,80,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,79691050,330,12,8000
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2007,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,81996185,357,17,8600
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2008,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,84357105,385,44,8800
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2009,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,86755585,407,8,8400
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2010,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,89237791,445,8,8400
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2011,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,91817929,481,33,7100
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2012,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,94451280,508,24,3100
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2013,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,97084366,547,7,7900
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2014,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,99746766,587,7,7100
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2015,74,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,102471895,630,10,7400
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2016,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,105293228,671,7,7900
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2017,77,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,108197950,716,11,7700
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2018,48,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,111129438,744,14,4800
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2019,58,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,114120594,785,16,5800
+Ethiopia,ET,ETH,231,Vitamin A two-dose coverage,2020,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,117190911,811,20,6600
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,1272935,7612,1,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,1306590,7574,2,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,1341696,7358,0,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,1378398,7323,2,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2006,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,1502534,6750,-1,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2007,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,1549774,6937,5,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2008,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,1599978,6497,5,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2009,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,1653542,6295,2,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2010,1,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,1711105,6515,1,100
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2012,2,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,1836705,6841,3,200
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2017,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,2140215,6893,3,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2018,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,2192012,6787,5,0
+Gabon,GA,GAB,266,Vitamin A two-dose coverage,2019,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,2242785,6893,2,0
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,1437539,668,1,0
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,1479449,687,4,0
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,1522223,646,9,0
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2005,17,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,1660368,661,5,1700
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2006,59,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,1711294,638,2,5900
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2007,82,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,1764883,638,5,8200
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2008,28,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,1820542,657,4,2800
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,1937275,697,5,9900
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2011,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,1998212,621,5,9300
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2012,46,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,2061014,634,4,4600
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2014,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,2189019,605,6,2700
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2015,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,2253133,612,7,2700
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2016,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,2317206,606,7,2700
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2017,32,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,2381182,618,8,3200
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2018,30,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,2444916,646,7,3000
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2019,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,2508883,669,7,3300
+Gambia,GM,GMB,270,Vitamin A two-dose coverage,2020,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,2573995,656,6,3300
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2000,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,19665502,1020,40,8900
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2001,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,20195577,1033,42,9900
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2002,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,20758326,1050,9,9900
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2003,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,21329514,1075,30,9900
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2004,50,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,21906444,1106,18,5000
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2005,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,22496951,1140,15,9600
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2006,26,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,23098586,1182,12,2600
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2007,77,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,23708320,1201,11,7700
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2008,24,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,24326087,1278,16,2400
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2009,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,24950762,1306,19,9000
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2010,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,25574719,1375,11,9300
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2011,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,26205941,1530,9,9400
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2012,17,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,26858762,1632,11,1700
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2013,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,27525597,1709,12,9600
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2014,23,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,28196358,1716,15,2300
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2015,28,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,28870939,1711,17,2800
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2016,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,29554303,1728,17,3300
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2017,50,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,30222262,1827,12,5000
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2018,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,30870641,1900,8,4500
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2019,29,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,31522290,1982,7,2900
+Ghana,GH,GHA,288,Vitamin A two-dose coverage,2020,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,32180401,1951,10,3100
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,8336967,621,0,0
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2001,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,8445717,635,0,7500
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2002,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,8577790,658,0,9400
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2003,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,8772254,651,0,8800
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2004,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,8961039,653,0,9900
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2005,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,9140114,659,31,9900
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2006,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,9330625,653,35,9300
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2007,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,9547082,682,18,9400
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2008,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,9779785,693,23,9400
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2009,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,10021323,669,5,9700
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2010,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,10270728,684,15,9700
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2011,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,10527712,705,21,8800
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,10788692,728,15,9900
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2015,69,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,11625998,756,11,6900
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2017,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,12240789,878,9,6400
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2018,82,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,12554864,911,10,8200
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2019,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,12877539,938,9,9700
+Guinea,GN,GIN,324,Vitamin A two-dose coverage,2020,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,13205153,959,11,9700
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,1230849,564,9,0
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,1257380,564,3,0
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,1285678,546,3,0
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,1315653,537,-4,0
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2004,44,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,1347009,539,1,4400
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2005,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,1379713,548,3,0
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2006,77,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,1414091,547,2,7700
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2007,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,1450572,551,5,8600
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2008,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,1488431,554,10,9200
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2009,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,1527196,558,-2,9300
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,1567220,569,3,9900
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2011,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,1609017,599,5,9900
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2012,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,1652717,573,2,9500
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2013,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,1697753,576,1,9700
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2014,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,1743309,567,-2,9800
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2015,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,1788919,586,1,8700
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2017,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,1879826,628,2,9500
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2018,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,1924955,621,0,0
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2019,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,1970457,634,0,0
+Guinea-Bissau,GW,GNB,624,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,2015828,605,1,0
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,8812245,1317,29,0
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2005,42,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,9111900,1296,14,4200
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2006,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,9266288,1297,11,3300
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2010,21,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,9842880,1311,5,2100
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2011,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,9954312,1362,6,3600
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2012,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,10108539,1348,5,5400
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2013,13,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,10261206,1386,5,1300
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2014,30,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,10412740,1389,3,3000
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2015,21,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,10563757,1404,7,2100
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2016,21,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,10713849,1410,12,2100
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2017,17,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,10863543,1425,11,1700
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2018,21,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,11012421,1429,12,2100
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2019,22,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,11160438,1387,19,2200
+Haiti,HT,HTI,332,Vitamin A two-dose coverage,2020,18,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,11306801,1323,23,1800
+India,IN,IND,356,Vitamin A two-dose coverage,2000,10,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,1059633675,755,4,1000
+India,IN,IND,356,Vitamin A two-dose coverage,2001,23,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,1078970907,778,4,2300
+India,IN,IND,356,Vitamin A two-dose coverage,2002,30,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,1098313039,793,4,3000
+India,IN,IND,356,Vitamin A two-dose coverage,2003,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,1117415123,841,4,3400
+India,IN,IND,356,Vitamin A two-dose coverage,2004,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,1136264583,892,4,3500
+India,IN,IND,356,Vitamin A two-dose coverage,2005,49,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,1154638713,948,4,4900
+India,IN,IND,356,Vitamin A two-dose coverage,2006,25,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,1172373788,1009,6,2500
+India,IN,IND,356,Vitamin A two-dose coverage,2007,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,1189691809,1070,6,3600
+India,IN,IND,356,Vitamin A two-dose coverage,2008,57,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,1206734806,1088,8,5700
+India,IN,IND,356,Vitamin A two-dose coverage,2009,68,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,1223640160,1157,11,6800
+India,IN,IND,356,Vitamin A two-dose coverage,2010,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,1240613620,1238,12,3500
+India,IN,IND,356,Vitamin A two-dose coverage,2011,58,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,1257621191,1285,9,5800
+India,IN,IND,356,Vitamin A two-dose coverage,2012,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,1274487215,1337,9,5500
+India,IN,IND,356,Vitamin A two-dose coverage,2013,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,1291132063,1405,10,5400
+India,IN,IND,356,Vitamin A two-dose coverage,2014,61,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,1307246509,1490,7,6100
+India,IN,IND,356,Vitamin A two-dose coverage,2015,53,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,1322866505,1590,5,5300
+India,IN,IND,356,Vitamin A two-dose coverage,2016,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,1338636340,1701,5,7100
+India,IN,IND,356,Vitamin A two-dose coverage,2018,56,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,1369003306,1891,4,5600
+India,IN,IND,356,Vitamin A two-dose coverage,2020,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,1396387127,1796,7,5400
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2000,41,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,30851606,1187,10,4100
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,31800343,1195,6,0
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,32779823,1166,2,0
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2004,46,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,34791836,1189,12,4600
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2005,69,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,35843010,1222,10,6900
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2006,52,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,36925253,1263,14,5200
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2007,15,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,38036793,1310,10,1500
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2008,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,39186895,1274,26,2700
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2009,51,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,40364444,1278,9,5100
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2010,62,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,41517895,1343,4,6200
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2011,37,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,42635144,1375,14,3700
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2012,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,43725806,1401,9,6600
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2013,19,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,44792368,1420,6,1900
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2014,28,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,45831863,1458,7,2800
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2015,37,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,46851488,1497,7,3700
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2016,41,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,47894670,1526,6,4100
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2017,44,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,48948137,1550,8,4400
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2018,59,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,49953304,1605,5,5900
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2019,67,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,50951450,1654,5,6700
+Kenya,KE,KEN,404,Vitamin A two-dose coverage,2020,82,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,51985780,1617,5,8200
+Kiribati,KI,KIR,296,Vitamin A two-dose coverage,2000,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,88826,1477,0,5400
+Kiribati,KI,KIR,296,Vitamin A two-dose coverage,2003,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,94302,1451,0,4500
+Kiribati,KI,KIR,296,Vitamin A two-dose coverage,2004,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,96224,1399,0,0
+Kiribati,KI,KIR,296,Vitamin A two-dose coverage,2005,60,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,98164,1439,0,6000
+Kiribati,KI,KIR,296,Vitamin A two-dose coverage,2006,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,100083,1411,0,5400
+Kiribati,KI,KIR,296,Vitamin A two-dose coverage,2017,37,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,120362,1405,0,3700
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2001,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,5519707,954,8,7000
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2002,58,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,5606101,995,11,5800
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2003,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,5689065,1040,15,6400
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2004,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,5768167,1091,10,5500
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2005,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,5852970,1152,7,7000
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2006,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,5946593,1232,7,5500
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2007,69,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,6041348,1304,5,6900
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2009,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,6229930,1466,0,8800
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2010,80,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,6323418,1568,6,8000
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2011,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,6416327,1669,8,9200
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2012,47,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,6508803,1777,4,4700
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2013,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,6600742,1893,6,8700
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2014,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,6691454,2010,4,8900
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2015,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,6787419,2125,1,8800
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2017,57,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,6997917,2358,1,5700
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2019,47,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,7212053,2564,3,4700
+Lao People's Democratic Republic,LA,LAO,418,Vitamin A two-dose coverage,2020,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,7319399,2539,5,5400
+Lesotho,LS,LSO,426,Vitamin A two-dose coverage,2005,2,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,1977424,844,3,200
+Lesotho,LS,LSO,426,Vitamin A two-dose coverage,2006,9,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,1976780,879,6,900
+Lesotho,LS,LSO,426,Vitamin A two-dose coverage,2007,38,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,1983465,913,8,3800
+Lesotho,LS,LSO,426,Vitamin A two-dose coverage,2010,17,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,2022747,982,3,1700
+Lesotho,LS,LSO,426,Vitamin A two-dose coverage,2011,38,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,2037677,1020,5,3800
+Lesotho,LS,LSO,426,Vitamin A two-dose coverage,2013,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,2073939,1085,5,6600
+Lesotho,LS,LSO,426,Vitamin A two-dose coverage,2014,67,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,2095242,1092,5,6700
+Lesotho,LS,LSO,426,Vitamin A two-dose coverage,2017,18,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,2170617,1091,4,1800
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2000,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,2895224,763,0,8300
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2001,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,2981648,763,0,9900
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2002,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,3060599,771,14,800
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2004,4,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,3122447,542,8,400
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2005,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,3266318,545,11,7900
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2006,3,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,3455397,557,7,300
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2007,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,3632740,580,11,8500
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2009,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,3905066,609,7,9200
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2010,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,4019956,628,7,9700
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2011,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,4181150,653,8,9600
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2012,13,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,4331740,681,7,1300
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2013,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,4427313,724,8,8800
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2014,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,4519398,714,10,0
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2015,61,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,4612329,700,8,6100
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2016,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,4706097,675,9,9200
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2017,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,4796631,679,12,9700
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2018,62,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,4889391,673,24,6200
+Liberia,LR,LBR,430,Vitamin A two-dose coverage,2019,50,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,4985289,644,0,5000
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2000,38,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,16216431,474,12,3800
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2001,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,16709665,488,8,5500
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2003,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,17724310,442,-2,8400
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2004,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,18250774,452,14,8700
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2005,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,18792171,460,18,9700
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2006,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,19350299,471,11,9600
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2007,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,19924958,483,10,9900
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2008,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,20513599,501,9,9700
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2009,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,21117092,467,9,9500
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2010,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,21731053,457,9,9500
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2011,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,22348158,451,9,9100
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2012,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,22966240,452,6,8800
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2013,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,23588073,450,6,9400
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,24215976,453,6,9900
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2015,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,24850912,456,7,9700
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2016,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,25501941,462,6,9700
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2017,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,26169542,468,9,8700
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2018,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,26846541,470,9,9600
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2019,3,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,27533134,479,6,300
+Madagascar,MG,MDG,450,Vitamin A two-dose coverage,2020,26,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,28225177,434,4,2600
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2000,21,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,11229387,292,30,2100
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2001,17,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,11498818,271,23,1700
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2003,14,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,12087965,277,10,1400
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2004,13,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,12411342,285,11,1300
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2005,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,12755648,286,15,8600
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2006,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,13118307,291,14,8900
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2007,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,13495463,310,8,9000
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2008,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,13889423,325,9,9500
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2009,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,14298932,342,8,9500
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2010,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,14718422,355,7,9600
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2011,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,15146094,361,8,9600
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2012,60,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,15581251,358,21,6000
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2013,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,16024775,366,27,9000
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2014,41,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,16477966,376,24,4100
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2015,16,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,16938942,376,22,1600
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2016,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,17405624,375,22,9100
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2017,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,17881167,380,12,9100
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2018,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,18367883,386,12,7500
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2019,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,18867337,396,9,6400
+Malawi,MW,MWI,454,Vitamin A two-dose coverage,2020,19,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,19377061,389,9,1900
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2000,10,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,11239101,557,-1,1000
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2003,74,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,12342165,658,-1,7400
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2004,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,12751995,647,-3,7800
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2005,59,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,13180551,667,6,5900
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2006,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,13623541,675,2,8800
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2007,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,14080912,676,1,8900
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2008,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,14551117,685,9,9700
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2009,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,15032635,695,2,9900
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,15529181,709,1,9900
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2011,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,16039734,708,3,9600
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2012,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,16514687,682,5,9300
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2013,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,17004033,678,-1,9800
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2015,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,18112907,724,1,8800
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2016,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,18700106,742,-2,9900
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2017,9,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,19311355,756,2,900
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2018,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,19934298,768,0,9300
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2019,16,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,20567424,779,-2,1600
+Mali,ML,MLI,466,Vitamin A two-dose coverage,2020,59,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,21224040,746,0,5900
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,2695003,1265,3,0
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,2761823,1225,5,0
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,2821703,1215,4,0
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,2883326,1272,5,0
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2004,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,2946575,1303,10,9200
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2005,60,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,3012360,1384,12,6000
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2006,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,3081229,1601,6,9600
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2007,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,3153508,1534,7,8900
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2008,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,3233336,1491,7,8700
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2009,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,3322616,1452,2,8900
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2010,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,3419461,1448,6,9700
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2011,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,3524249,1464,6,9900
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,3636113,1482,5,9900
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,3742959,1499,4,9900
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2014,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,3843174,1523,4,8900
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2015,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,3946220,1563,3,8300
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2016,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,4051890,1541,1,7500
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2017,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,4160015,1595,2,0
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2018,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,4270712,1628,3,8500
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2019,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,4383849,1670,2,8900
+Mauritania,MR,MRT,478,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,4498604,1612,2,0
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,17768505,294,0,0
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,18220716,321,0,0
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2002,25,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,18694946,342,0,2500
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2003,22,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,19186754,356,0,2200
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2004,13,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,19694411,374,0,1300
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2005,16,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,20211114,389,6,1600
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2006,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,20735982,416,13,3300
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2007,42,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,21280513,437,8,4200
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2008,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,21845571,457,15,8300
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2009,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,22436660,473,4,9700
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,23073723,489,12,9900
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2011,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,23760421,511,11,9900
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2012,20,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,24487611,531,3,2000
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,25251731,551,4,9900
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,26038704,574,3,9900
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2015,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,26843246,594,4,9900
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2016,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,27696493,598,17,5500
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2017,61,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,28569441,601,15,6100
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2018,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,29423878,604,4,6400
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2019,57,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,30285595,600,3,5700
+Mozambique,MZ,MOZ,508,Vitamin A two-dose coverage,2020,59,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,31178239,576,3,5900
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2000,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,45538332,318,0,6600
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2000,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,45538332,318,0,6600
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2001,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,46014826,354,21,8600
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2001,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,46014826,354,21,8600
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2002,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,46480230,391,57,9200
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2002,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,46480230,391,57,9200
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2003,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,46924293,438,37,8700
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2003,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,46924293,438,37,8700
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2004,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,47338446,494,5,9600
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2004,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,47338446,494,5,9600
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2005,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,47724471,556,9,9600
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2005,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,47724471,556,9,9600
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2006,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,48088274,625,20,9500
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2006,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,48088274,625,20,9500
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2007,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,48445647,698,35,9300
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2007,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,48445647,698,35,9300
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2008,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,48729486,771,27,9400
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2008,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,48729486,771,27,9400
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2009,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,49015836,846,1,9500
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2009,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,49015836,846,1,9500
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2010,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,49390988,925,8,9400
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2010,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,49390988,925,8,9400
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2011,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,49794522,986,5,9600
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2011,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,49794522,986,5,9600
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2012,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,50218185,1041,1,8600
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2012,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,50218185,1041,1,8600
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2013,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,50648334,1114,6,9300
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2013,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,50648334,1114,6,9300
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2014,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,51072436,1195,5,9400
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2014,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,51072436,1195,5,9400
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2015,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,51483949,1225,9,8800
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2015,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,51483949,1225,9,8800
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2016,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,51892349,1343,7,9600
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2016,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,51892349,1343,7,9600
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2017,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,52288341,1409,5,8900
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2017,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,52288341,1409,5,8900
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2018,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,52666014,1489,7,8300
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2018,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,52666014,1489,7,8300
+Myanmar,MM,MMR,104,Vitamin A two-dose coverage,2019,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,53040212,1578,9,9300
+Burma,MM,MMR,104,Vitamin A two-dose coverage,2019,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,53040212,1578,9,9300
+Namibia,,NAM,516,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,0
+Namibia,,NAM,516,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,0
+Namibia,,NAM,516,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,0
+Namibia,,NAM,516,Vitamin A two-dose coverage,2005,10,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,1000
+Namibia,,NAM,516,Vitamin A two-dose coverage,2006,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,1200
+Namibia,,NAM,516,Vitamin A two-dose coverage,2007,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,0
+Namibia,,NAM,516,Vitamin A two-dose coverage,2010,13,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,1300
+Namibia,,NAM,516,Vitamin A two-dose coverage,2011,23,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,2300
+Namibia,,NAM,516,Vitamin A two-dose coverage,2012,20,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,2000
+Namibia,,NAM,516,Vitamin A two-dose coverage,2013,62,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,6200
+Namibia,,NAM,516,Vitamin A two-dose coverage,2016,22,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,2200
+Namibia,,NAM,516,Vitamin A two-dose coverage,2017,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,2700
+Namibia,,NAM,516,Vitamin A two-dose coverage,2018,44,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,4400
+Namibia,,NAM,516,Vitamin A two-dose coverage,2019,48,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,,0,0,0,4800
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2000,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,24559500,547,2,7300
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2001,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,24956071,564,3,9600
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2002,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,25332178,556,3,8300
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2003,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,25682908,570,6,9600
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2004,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,26003965,590,3,9500
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2005,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,26285110,604,7,9600
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2006,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,26518971,619,7,9700
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2007,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,26713655,635,2,9500
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2008,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,26881544,670,10,9300
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2009,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,27026941,696,11,9500
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2010,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,27161567,726,9,9100
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2011,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,27266399,748,9,9100
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2012,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,27330694,781,9,9500
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,27381555,807,9,9900
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2014,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,27462106,853,8,8500
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2015,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,27610325,882,8,7900
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2016,79,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,27861186,878,9,7900
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2017,81,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,28183426,946,4,8100
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2018,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,28506712,1007,4,7600
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2019,77,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,28832496,1061,6,7700
+Nepal,NP,NPL,524,Vitamin A two-dose coverage,2020,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,29348627,1018,5,8500
+Niger,NE,NER,562,Vitamin A two-dose coverage,2000,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,11622665,389,3,9200
+Niger,NE,NER,562,Vitamin A two-dose coverage,2001,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,12031430,403,4,8800
+Niger,NE,NER,562,Vitamin A two-dose coverage,2002,77,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,12456517,409,3,7700
+Niger,NE,NER,562,Vitamin A two-dose coverage,2003,68,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,12900790,403,-2,6800
+Niger,NE,NER,562,Vitamin A two-dose coverage,2005,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,13855221,404,8,9400
+Niger,NE,NER,562,Vitamin A two-dose coverage,2006,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,14365168,413,0,8800
+Niger,NE,NER,562,Vitamin A two-dose coverage,2007,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,14897873,411,0,9900
+Niger,NE,NER,562,Vitamin A two-dose coverage,2008,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,15455175,427,11,9200
+Niger,NE,NER,562,Vitamin A two-dose coverage,2009,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,16037915,419,1,9500
+Niger,NE,NER,562,Vitamin A two-dose coverage,2010,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,16647543,438,1,9800
+Niger,NE,NER,562,Vitamin A two-dose coverage,2011,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,17283112,432,3,9500
+Niger,NE,NER,562,Vitamin A two-dose coverage,2012,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,17954407,460,0,9800
+Niger,NE,NER,562,Vitamin A two-dose coverage,2013,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,18653199,466,2,9600
+Niger,NE,NER,562,Vitamin A two-dose coverage,2014,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,19372014,479,-1,9500
+Niger,NE,NER,562,Vitamin A two-dose coverage,2015,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,20128124,481,-1,9900
+Niger,NE,NER,562,Vitamin A two-dose coverage,2016,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,20921743,489,2,9400
+Niger,NE,NER,562,Vitamin A two-dose coverage,2017,53,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,21737922,495,3,5300
+Niger,NE,NER,562,Vitamin A two-dose coverage,2018,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,22577058,511,3,6400
+Niger,NE,NER,562,Vitamin A two-dose coverage,2019,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,23443393,521,-2,9900
+Niger,NE,NER,562,Vitamin A two-dose coverage,2020,6,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,24333639,520,3,600
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,122851984,1463,7,0
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2001,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,126152678,1509,19,6400
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2002,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,129583026,1694,13,3100
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,133119801,1770,14,0
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2004,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,136756848,1882,15,7600
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2005,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,140490722,1950,18,4000
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2006,61,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,144329764,2013,8,6100
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2007,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,148294028,2089,5,5500
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2008,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,152382506,2170,12,0
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2009,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,156595758,2281,13,7800
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2010,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,160952853,2397,14,9100
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2011,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,165463745,2456,11,7300
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2012,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,170075932,2490,12,7800
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2013,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,174726123,2586,8,7000
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2014,80,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,179379016,2677,8,8000
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2015,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,183995785,2680,9,7600
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2016,56,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,188666931,2571,16,5600
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2017,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,193495907,2527,17,8300
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2018,80,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,198387623,2512,12,8000
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2019,62,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,203304492,2505,11,6200
+Nigeria,NG,NGA,566,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,208327405,2401,13,0
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2000,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,154369924,949,4,9500
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2001,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,159217727,953,3,9900
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2002,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,163262807,952,3,9900
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2003,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,166876680,986,3,9900
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2004,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,170648620,1037,7,9900
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2005,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,174372098,1081,9,9900
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2006,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,178069984,1121,8,9900
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2007,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,181924521,1150,8,9900
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2008,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,185931955,1144,20,9700
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2009,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,190123222,1151,14,9100
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2010,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,194454498,1143,13,8700
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2011,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,198602738,1150,12,9000
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,202205861,1169,10,9900
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2013,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,205337562,1202,8,0
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2014,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,208251628,1240,7,9600
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2015,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,210969298,1282,3,9800
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2016,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,213524840,1337,4,0
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2017,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,216379655,1378,4,9200
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2018,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,219731479,1440,5,9200
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2019,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,223293280,1453,11,9000
+Pakistan,PK,PAK,586,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,227196741,1410,10,0
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2003,1,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,6090980,1843,15,100
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2005,1,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,6498818,1887,2,100
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2006,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,6708217,1927,2,700
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2007,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,6921066,2013,1,700
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2009,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,7358890,2016,7,1200
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2010,14,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,7583269,2155,6,1400
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2011,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,7806637,2116,4,1200
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2012,15,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,8026545,2154,5,1500
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2018,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,9329227,2536,4,0
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2019,17,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,9542486,2591,4,1700
+Papua New Guinea,PG,PNG,598,Vitamin A two-dose coverage,2020,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,9749640,2455,5,3400
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2000,69,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,77958223,1832,4,6900
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2001,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,79626086,1848,5,7600
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2002,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,81285572,1878,3,7600
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2003,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,82942837,1934,2,7500
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2004,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,84607501,2020,5,8500
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2005,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,86261250,2079,7,8500
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2006,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,87901835,2149,5,8600
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2007,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,89561377,2247,3,8300
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2008,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,91252326,2301,8,8600
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2009,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,92946951,2292,4,9100
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2010,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,94636700,2416,4,9100
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2011,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,96337913,2465,5,9100
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2012,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,98032317,2589,3,9000
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2013,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,99700107,2718,3,8900
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2014,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,101325201,2844,4,8300
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2015,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,103031365,2974,1,7200
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2016,68,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,104875266,3131,1,6800
+Philippines,PH,PHL,608,Vitamin A two-dose coverage,2020,29,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,112190977,3196,2,2900
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,8109989,337,4,0
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,8223941,361,3,0
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,8372306,401,2,0
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2003,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,8567992,401,7,700
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2004,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,8791853,420,12,7500
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2005,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,9026299,447,9,8700
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2006,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,9270066,476,9,8700
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2007,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,9523168,498,9,8700
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2009,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,10043737,558,13,9400
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2010,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,10309031,584,0,9400
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2011,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,10576932,614,3,7300
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2012,3,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,10840334,651,10,300
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2013,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,11101350,666,6,0
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2014,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,11368451,690,2,9500
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2015,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,11642959,733,3,9600
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2017,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,12230339,769,8,9800
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2018,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,12531808,815,0,9200
+Rwanda,RW,RWA,646,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,13146362,822,10,0
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,153762,1138,10,0
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2004,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,157697,1149,13,7600
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2005,28,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,161680,1195,17,2800
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2006,56,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,165725,1269,23,5600
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2007,48,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,169845,1283,19,4800
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2008,19,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,174004,1330,32,1900
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2009,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,178128,1331,17,3500
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2010,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,182138,1389,13,3500
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2011,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,186044,1419,14,3600
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2012,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,189924,1434,11,3400
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2013,56,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,193757,1473,8,5600
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2015,42,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,201124,1571,5,4200
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2016,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,204632,1609,5,3400
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2017,23,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,208036,1643,6,2300
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2018,32,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,211344,1665,8,3200
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2019,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,214599,1676,0,3500
+Sao Tome and Principe,ST,STP,678,Vitamin A two-dose coverage,2020,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,218641,1695,0,3300
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2000,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,9704287,1077,1,9300
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2001,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,9938027,1097,3,8500
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2005,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,10974057,1146,2,8600
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2006,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,11263387,1142,2,9600
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2007,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,11563869,1144,6,9400
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2008,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,11872929,1156,7,9000
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2009,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,12195029,1156,-2,9700
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2013,2,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,13595566,1157,1,200
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2014,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,13970308,1196,-1,8900
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2015,29,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,14356181,1238,0,2900
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2017,58,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,15157793,1340,1,5800
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2018,57,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,15574909,1385,0,5700
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2019,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,16000781,1410,2,6400
+Senegal,SN,SEN,686,Vitamin A two-dose coverage,2020,37,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,16436120,1391,3,3700
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,4584067,403,0,0
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2001,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,4857096,356,0,7200
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2002,77,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,5140113,426,0,7700
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2003,84,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,5350907,447,0,8400
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2004,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,5533329,461,0,9300
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2005,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,5683334,469,0,9900
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2006,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,5809774,478,0,9300
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2007,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,5939163,505,12,8600
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2008,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,6090860,519,8,1200
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2009,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,6259842,521,7,9900
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,6436698,534,7,9900
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2011,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,6612385,553,7,9900
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2012,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,6788587,620,7,9900
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2013,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,6964859,730,6,9900
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2014,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,7140688,744,5,800
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2015,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,7314773,577,7,9700
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2016,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,7493913,597,11,9900
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2017,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,7677565,607,18,9800
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2018,69,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,7861281,614,16,6900
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2019,26,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,8046828,631,15,2600
+Sierra Leone,SL,SLE,694,Vitamin A two-dose coverage,2020,32,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,8233970,604,13,3200
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2001,62,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,9070747,0,0,6200
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2002,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,9411103,0,0,7000
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2003,56,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,9758281,0,0,5600
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2006,32,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,10784973,0,0,3200
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2007,4,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,11118092,0,0,400
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2008,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,11444870,0,0,9900
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2009,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,11730037,0,0,9900
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2011,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,12216837,0,0,1200
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2014,30,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,13309235,348,0,3000
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2015,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,13763906,388,0,3300
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2016,9,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,14292847,405,0,900
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2017,11,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,14864221,399,0,1100
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2018,32,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,15411094,414,0,3200
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2019,20,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,15981300,428,0,2000
+Somalia,SO,SOM,706,Vitamin A two-dose coverage,2020,28,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,16537016,424,0,2800
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2004,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,48556071,5234,-1,0
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2005,29,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,49017147,5458,2,2900
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2006,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,49491756,5709,3,2700
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2008,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,50565812,6075,10,3900
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2011,44,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,52443325,6131,5,4400
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2013,42,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,53873616,6263,6,4200
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2016,50,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,56422274,6186,7,5000
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2017,47,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,56641209,6233,5,4700
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2018,50,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,57339635,6251,5,5000
+South Africa,ZA,ZAF,710,Vitamin A two-dose coverage,2020,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,58801927,5726,3,3900
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2005,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,7662654,0,0,700
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2006,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,8029517,0,0,4000
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2007,65,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,8417823,0,0,6500
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2009,41,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,9229227,2297,5,4100
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2010,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,9714419,2303,1,0
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2012,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,10701604,1075,46,7000
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2013,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,11106031,1171,0,0
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2014,18,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,11213284,1199,2,1800
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2016,67,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,11066105,0,380,6700
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2017,51,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,10658226,0,188,5100
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2018,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,10395329,0,84,7600
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2019,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,10447666,0,87,0
+South Sudan,SS,SSD,728,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,10606227,0,30,0
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2006,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,30332968,2287,7,7000
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2007,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,31191163,2342,15,9800
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2008,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,32065241,2356,14,8800
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2009,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,32948155,2221,11,9900
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2010,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,33739933,2239,13,9500
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2012,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,35159792,2223,36,8300
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2013,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,35990704,2214,37,0
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,37003245,2254,37,9900
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2015,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,38171178,2226,17,7200
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2016,63,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,39377169,2233,18,6300
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2017,20,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,40679828,2177,32,2000
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2018,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,41999059,2052,63,3400
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2019,39,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,43232093,1950,51,3900
+Sudan,SD,SDN,736,Vitamin A two-dose coverage,2020,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,44440486,1828,150,0
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,6272998,430,0,0
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,6408810,462,39,0
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,6541755,501,12,0
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2003,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,6672492,545,16,0
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2004,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,6801204,590,7,9300
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2005,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,6929145,618,7,9000
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2006,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,7057417,649,10,8800
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2007,85,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,7188391,687,13,8500
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2008,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,7324627,728,20,7300
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2009,74,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,7468596,741,6,7400
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2010,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,7621779,774,6,8700
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2011,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,7784819,814,12,8800
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2012,90,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,7956382,856,6,9000
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2013,82,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,8136610,899,5,8200
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2014,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,8326348,937,6,9900
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2015,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,8524063,970,6,9700
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2016,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,8725318,1013,6,9600
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2017,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,8925525,1061,0,9100
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2018,76,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,9128132,1116,0,7600
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2019,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,9337003,1172,0,9900
+Tajikistan,TJ,TJK,762,Vitamin A two-dose coverage,2020,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,9543207,1197,0,9900
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2002,26,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,909639,994,0,2600
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2003,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,926721,954,7,3300
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2004,36,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,945989,938,3,3600
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2005,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,969313,943,1,3500
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2006,28,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,994564,881,4,2800
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2007,50,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,1019362,948,10,5000
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2009,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,1065540,1113,1,4500
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2010,48,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,1088486,1191,7,4800
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2011,59,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,1112976,1234,13,5900
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2012,42,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,1137676,1266,12,4200
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2013,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,1161555,1279,11,4000
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2015,61,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,1205813,1322,1,6100
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2016,65,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,1224562,1346,-1,6500
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2017,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,1243235,1285,1,6600
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2018,73,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,1261845,1258,2,7300
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2019,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,1280438,1531,1,7800
+Timor-Leste,TL,TLS,626,Vitamin A two-dose coverage,2020,65,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,1299995,1989,0,6500
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,5008035,497,2,0
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2001,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,5145426,488,4,700
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2002,18,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,5281538,493,3,1800
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2003,53,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,5421001,513,-1,5300
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2004,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,5565218,495,0,9400
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2005,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,5711597,460,7,9200
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2006,15,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,5874240,459,2,1500
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2007,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,6047537,440,1,6400
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2008,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,6222482,445,9,6400
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2009,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,6398624,457,4,9900
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,6571855,472,1,9900
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2011,22,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,6748672,489,4,2200
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2012,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,6926635,508,3,6400
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2013,61,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,7106229,525,2,6100
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2015,6,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,7473229,559,3,600
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2016,9,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,7661354,576,1,900
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2017,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,7852795,586,-1,8700
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2018,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,8046679,601,1,8900
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2019,86,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,8243094,618,1,8600
+Togo,TG,TGO,768,Vitamin A two-dose coverage,2020,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,8442580,614,2,9100
+Turkmenistan,TM,TKM,795,Vitamin A two-dose coverage,2019,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,6158420,7422,0,0
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,24020697,509,3,0
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,24763325,519,2,0
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2002,31,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,25545090,547,0,3100
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2004,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,27146084,586,4,5500
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2005,78,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,27946588,605,8,7800
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2006,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,28773227,651,7,7100
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2008,67,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,30509862,723,12,6700
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2009,64,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,31412520,750,13,6400
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2010,46,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,32341728,770,4,4600
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2011,60,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,33295738,818,17,6000
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2012,70,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,34273295,825,13,7000
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2013,65,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,35273570,830,5,6500
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2014,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,36336539,847,3,6600
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2017,27,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,40127085,872,5,2700
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2018,33,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,41515395,896,3,3300
+Uganda,UG,UGA,800,Vitamin A two-dose coverage,2019,24,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,42949080,922,3,2400
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2000,11,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,34463704,552,6,1100
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2001,81,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,35414469,569,5,8100
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2002,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,36353531,594,5,8900
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2003,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,37333918,617,5,9100
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2004,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,38360879,646,5,9300
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2005,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,39439505,675,5,9500
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2006,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,40562052,699,7,9400
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2007,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,41716497,726,7,9300
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2008,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,42870884,747,10,9300
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2009,94,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,43957933,767,12,9400
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2010,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,45110527,794,6,9900
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2011,97,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,46416031,831,13,9700
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2012,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,47786137,844,16,9500
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2013,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,49253643,874,8,9200
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2014,88,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,50814552,905,6,8800
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2015,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,52542823,929,6,8700
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2016,89,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,54401802,959,5,8900
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2017,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,56267032,990,5,8700
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2018,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,58090443,1011,3,9900
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2019,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,59872579,1038,3,9500
+Tanzania,TZ,TZA,834,Vitamin A two-dose coverage,2020,1,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,61704518,1027,3,100
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,18628700,2228,5,0
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,19143457,2250,12,0
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,19660653,2277,12,0
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2005,4,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,21320671,2392,12,400
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2006,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,21966298,2395,11,5500
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2007,11,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,22641538,2401,8,1100
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2009,11,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,24029589,2436,5,1100
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2010,12,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,24743946,2548,11,1200
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2011,9,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,25475610,2160,20,900
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2012,11,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,26223391,2148,10,1100
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2013,87,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,26984002,2189,11,8700
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2014,7,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,27753304,2124,8,700
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2015,8,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,28516545,1488,0,800
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2016,81,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,29274002,1314,0,8100
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2018,13,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,30790513,1195,0,1300
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2019,9,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,31546691,0,0,900
+Yemen,YE,YEM,887,Vitamin A two-dose coverage,2020,6,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,32284046,0,0,600
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2000,54,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,9891136,815,26,5400
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2001,75,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,10191964,833,21,7500
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2002,63,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,10508294,844,22,6300
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2003,55,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,10837973,875,21,5500
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2005,66,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,11564870,941,18,6600
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2006,71,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,11971567,981,9,7100
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2007,95,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,12402073,1026,11,9500
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2008,96,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,12852966,1067,12,9600
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2009,91,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,13318087,1125,13,9100
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2010,92,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,13792086,1198,9,9200
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2011,72,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,14265814,1223,6,7200
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2013,93,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,15234976,1295,7,9300
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2016,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,16767761,1315,18,9800
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2017,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,17298054,1320,7,9900
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2018,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,17835893,1331,7,9900
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2019,99,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,18380477,1311,9,9900
+Zambia,ZM,ZMB,894,Vitamin A two-dose coverage,2020,98,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,18927715,1237,16,9800
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2000,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2000,11834676,1677,0,0
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2001,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2001,11910978,1690,0,0
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2002,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2002,11984644,1530,0,0
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2003,19,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2003,12075828,1260,0,1900
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2004,20,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2004,12160881,1179,0,2000
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2005,81,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2005,12224753,1106,0,8100
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2006,67,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2006,12330490,1058,0,6700
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2007,83,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2007,12450568,1010,0,8300
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2008,0,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2008,12550347,825,0,0
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2009,77,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2009,12679810,914,0,7700
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2010,49,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2010,12839771,1097,3,4900
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2011,47,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2011,13025785,1239,3,4700
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2012,61,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2012,13265331,1408,4,6100
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2013,34,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2013,13555422,1422,2,3400
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2014,32,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2014,13855753,1412,0,3200
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2015,45,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2015,14154937,1410,-2,4500
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2016,35,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2016,14452704,1394,-2,3500
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2017,43,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2017,14751101,1421,1,4300
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2018,40,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2018,15052184,1463,11,4000
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2019,44,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2019,15354608,1343,255,4400
+Zimbabwe,ZW,ZWE,716,Vitamin A two-dose coverage,2020,29,Total,Units,%,Adjusted,Free,Other,6 to 59 months old,2020,15669666,1213,557,2900
